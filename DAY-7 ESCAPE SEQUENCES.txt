@@ -47,7 +47,7 @@ File Desc: print statement
 #print('hello\ten')     # \t is negleted because the spaces are not defined correctly
 # print('hello\\ten')   #hello\ten     --->\t tab
 
-# print('hi\umesh')     #hi\umesh      --->\u unocode
+# print('hi\umesh')     #hi\umesh      --->\u unocode here 1to6 will give the black&white imoges and 7to9 will give blankspace
 
 # print('\u0001')
 # print('\u0002')
